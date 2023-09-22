@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
-    <title>Post Content | CORK - Multipurpose Bootstrap Dashboard Template </title>
+    <title>Достижения России в науке</title>
     <link rel="icon" type="image/x-icon" href="../src/assets/img/favicon.ico"/>
     <link href="../layouts/collapsible-menu/css/light/loader.css" rel="stylesheet" type="text/css" />
     <link href="../layouts/collapsible-menu/css/dark/loader.css" rel="stylesheet" type="text/css" />
@@ -63,14 +63,14 @@
 
                             <div class="single-post-content">
 
-                                <div class="featured-image" style='background: lightblue url("../src/assets/img/lightbox-5.jpeg") no-repeat; fixed center'>
+                                <div class="featured-image" style='background: lightblue url("../img/4.jpg") no-repeat; '>
 
                                     <div class="featured-image-overlay"></div>
 
                                     <div class="post-header">
 
                                         <div class="post-title">
-                                            <h1 class="mb-0">List of Best Restaurant WordPress Themes</h1>
+                                            <h1 class="mb-0">Наука в России</h1>
                                         </div>
 
 
@@ -81,62 +81,8 @@
 
                                 <div class="post-content">
 
-                                    <p class="mb-5">Наука – это систематизированное исследование, которое направлено на расширение нашего понимания окружающего мира. Она основана на наблюдениях, экспериментах, анализе данных и разработке теорий. Наука стремится отвечать на вопросы, которые поставлены человечеством, и объяснять природные и социальные явления.</p>
-
-                                    <h4>Cinyras ea tulit in inducit qui mater</h4>
-
-                                    <p class="mb-5">Lorem markdownum facit? Hinc tutus serisque, mihi iaculum curam, vicibus aliquando se posses gentis quidem. Meta  tenebat diversa dixerat celeberrimus molle require; prendique urnam  Pyreneus? Haut mei sive digna noctisque percussit dicta, in pars certaminis iuvenalis. Praemonuisse esse  inter in huic, Cinyras pallentem vi sistere cubat ne causa.</p>
-
-                                    <h4>Utque tu canibus</h4>
-
-                                    <p class="mb-5">Possent quippe. Conata fera ab Hersilie iam auditur haesit. Culpa ignis retia Aonides ictus crescendo micantes, petere, ambustaque vicem in digitos iubet cornigeris.</p>
-
-                                    <ul class="mb-5">
-                                        <li class="mb-1">Consectetur adipiscing elit</li>
-                                        <li class="mb-1">Integer massa</li>
-                                        <li class="mb-1">Facilisis nisl aliquet</li>
-                                    </ul>
-
-                                    <h4>Fregit aut Caystro equos</h4>
-
-                                    <p>Manet pro aere superest adiacet sua purpura Tereus in multis conantem culpa, inque fingit et referebat? Materiaque mentes et, quo omnia  captiva ore mandat cepit triformis filia. Prius sorte nomina in repellite sentit facunde te aures, vires.</p>
-
-
-                                    <h2 class="mb-4 mt-5">Code Block with Toggle</h2>
-
-
-
-                                    <p class="mb-5">Fama creatis cum; ait atque et ictaque stabat, si texit continuere exsatiata vestes, humana arces. Moriens carissime  pudet dextra et aures micantes est, in. Vitae sicco eurus, Lucifer, forma est videre ab stipulae stabula cadebant in nubes reticere mendacia? Adice  Ladon petis. Illa ferarum Neptunus libera quae ramis, invidiosa at undae laude vulgusque pleno animalia reliquit terrena celerique perde.</p>
-
-                                    <h4>Nocte populusque</h4>
-
-                                    <p>Lorem markdownum, ponere patent ista, Cadme, adesse humum non forem putares; adiuro ore viresque est. Inde labores si sustinet regia, levi oris pascere! Rhodon ad lingua perdidit inpia alis! Maiorque de duro!</p>
-
-                                    <p class="mb-5">Sit et angues referente proxima Emathiique nemo: herbae servant eo  corpus cornua tenuata recuso; natis parentem. Nisi nec aquarum, nymphae.</p>
-
-                                    <img src="../src/assets/img/lightbox-3.jpeg" alt="image-1" class="full-width img-fluid mt-4 mb-5">
-
-                                    <h4>Novato extrema monimenta clivo ille</h4>
-
-                                    <p class="mb-5">Recessit mox patrem ille mea, tumulatus teneri hominis, favilla enim recentes deam cur nocte pro eburnea. Favilla iam suis horruerant Chiae quotiensque ingemuit locumque ducere postquam alebat. Iovi caeli esse superet contraria conscia transierant verae; ut vetuere, suo gerat lumina rugis velletque. Facta innecte de relicta Chrysenque morte, laedor dea aequaret dedit! Sustinui attulit proles potentior.</p>
-
-
-                                    <h4>Aliquod corpora sororibus crimine ornata</h4>
-
-                                    <p class="mb-5">Est convicia et nubibus negate. In nisi inbellibus sui, cruribus vult hostes solum invitat. Vino faciam stratis; non modo in eurus igitur, ambit, mentitus periclo? Ullo dextra, extemplo commenta ultima, quid ire vos toto quia, in habili Gradivus ferarum certaminis attulerat.</p>
-
-
-                                    <h4>Nemus dolet monstravit</h4>
-
-                                    <p class="mb-5">Est et hic volucres, rursus; simul, cauda tamen cacumine pars intendensque . Maius dignior caret coniuge, demugitaeque duce, exponimur anus inritata. Quoque sum casusve corpora, dat caecis doloris scelus domesticus laboris heu quod reliquit. Albenti infra sed Pergama vivere fusus de fecerat sublime prosunt illic. Consensu pavet insistit terras!</p>
-
-                                    <hr class="my-5">
-
-                                    <div class="text-center mb-5">
-                                        <img src="../src/assets/img/slider-3.jpeg" alt="image-1" class="img-fluid">
-                                    </div>
-
-                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+                                    <p class="mb-5">Начнём с общей информации. 8 февраля отмечается День российской науки. Россия в научной области занимает 5-е место в мире по масштабам занятости и 10-е – по объему ее финансирования. Российская наука, несмотря на сложность международных отношений, продолжает развиваться. В презентации представлен список российских научных открытий, которые повлияли или повлияют на мир в целом. Пойдем по возрастанию, по дате открытия.
+                                    </p>
 
 
                                 </div>
@@ -164,6 +110,7 @@
                                                     <li><a href="{{ route('list2') }}" class="active">2</a></li>
                                                     <li><a href="{{ route('list3') }}">3</a></li>
                                                     <li><a href="{{ route('list4') }}">4</a></li>
+
 
                                                 </ul>
 
